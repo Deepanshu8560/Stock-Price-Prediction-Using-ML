@@ -36,11 +36,14 @@ To set up the project locally, follow these steps:
 
 2. Run the cells to fetch data, train the model, and visualize predictions.
 
-## Contributing
-- Contributions are welcome! Please feel free to submit a pull request or open an issue for any suggestions or improvements.
+
 
 <img src="./ss/1.png">
 
 <img src="./ss/2.png">
 <img src="./ss/3.png">
 <img src="./ss/4.png">
+
+
+## Contributing
+- Contributions are welcome! Please feel free to submit a pull request or open an issue for any suggestions or improvements.
